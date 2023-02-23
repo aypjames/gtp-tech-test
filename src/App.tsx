@@ -55,7 +55,7 @@ export default function App() {
             <h1>Good morning{userName && `, ${userName}`}!</h1>
           </div>
         )}
-
+        <hr />
         <Name counter={count} userName={userName} setUserName={setUserName} />
       </div>
     </div>

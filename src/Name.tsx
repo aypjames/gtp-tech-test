@@ -32,7 +32,7 @@ const Name = ({ counter, userName, setUserName }: Param): JSX.Element => {
       <div className="mt-5">
         <button onClick={handleNameSubmit}>Submit</button>
       </div>
-      <br />
+      <hr />
       <div>
         Greeting button click counter:{" "}
         <input
