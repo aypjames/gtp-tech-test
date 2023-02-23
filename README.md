@@ -27,8 +27,6 @@ The final app should do the following:
 
 Start by cloning the repo to your local device
 
-### For frontend
-
 Once your have changed directories into the "gtp-tech-test" folder in your Terminal, make sure to install the dependencies before running the app.
 
 ```
