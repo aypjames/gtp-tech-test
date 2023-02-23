@@ -21,18 +21,18 @@ const Name = ({ counter, userName, setUserName }: Param): JSX.Element => {
 
   return (
     <div className="NameContent">
-      <div className="mt-5">Please enter you name</div>
+      <div className="mt-5">Please enter your name</div>
       <input
         className="mt-5"
         type="text"
-        placeholder="Enter Text"
+        placeholder="Name"
         value={data}
         onChange={handleNameChange}
       />
       <div className="mt-5">
         <button onClick={handleNameSubmit}>Submit</button>
       </div>
-
+      <br />
       <div>
         Greeting button click counter:{" "}
         <input

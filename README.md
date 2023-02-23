@@ -1,6 +1,6 @@
 # GTP Interview - Tech Test
 
-A tech-test that was completed as part of the interview with the Government Technlogy Platforms (GTP) team. Built using React Typescript. The basic code and styling was provided by the interviewer.
+A tech-test that was completed as part of the interview with the Government Technlogy Platforms (GTP) team. Built using React Typescript. The basic code and styling was provided by the interviewer, but has been cleaned up using NSW.digital styling.
 
 ## MVP
 
