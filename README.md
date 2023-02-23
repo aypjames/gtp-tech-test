@@ -32,7 +32,7 @@ Start by cloning the repo to your local device
 Once your have changed directories into the "gtp-tech-test" folder in your Terminal, make sure to install the dependencies before running the app.
 
 ```
-cd gtp-tecg-test
+cd gtp-tech-test
 npm install
 npm run dev
 ```
