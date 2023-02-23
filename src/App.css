@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  padding: 5rem;
+}
+
+.NameContent {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  row-gap: 0.5rem;
+  max-width: 15rem;
+}
+
+.mt-5 {
+  margin-top: 5px;
+}
+
+button {
+  max-width: 10rem;
+}
